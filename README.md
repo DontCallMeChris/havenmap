@@ -1,1 +1,1 @@
-# havenmap
+# http://havenmap.rizen.pp.ua
